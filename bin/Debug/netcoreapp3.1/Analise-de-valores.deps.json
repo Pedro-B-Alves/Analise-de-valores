@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Analise-de-valores/1.0.0": {
+        "runtime": {
+          "Analise-de-valores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analise-de-valores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

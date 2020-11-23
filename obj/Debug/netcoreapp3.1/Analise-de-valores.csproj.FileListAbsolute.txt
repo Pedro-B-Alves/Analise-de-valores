@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\bin\Debug\netcoreapp3.1\Analise-de-valores.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\bin\Debug\netcoreapp3.1\Analise-de-valores.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\bin\Debug\netcoreapp3.1\Analise-de-valores.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\bin\Debug\netcoreapp3.1\Analise-de-valores.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\bin\Debug\netcoreapp3.1\Analise-de-valores.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\bin\Debug\netcoreapp3.1\Analise-de-valores.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Analise-de-valores\obj\Debug\netcoreapp3.1\Analise-de-valores.genruntimeconfig.cache
